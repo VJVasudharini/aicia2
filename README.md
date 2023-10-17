@@ -1,8 +1,7 @@
 # aicia2
 AI Search algorithms:
-
-A*
-BMS
+1.A*
+2.BMS
 BFS
 DFS
 Hill Climb Search
