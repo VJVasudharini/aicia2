@@ -1,5 +1,5 @@
 # aicia2
-AI Search algorithms:
+AI Search algorithms: 
 1.A*
 2.BMS
 3.BFS
@@ -10,3 +10,4 @@ AI Search algorithms:
 8.Oracle
 9.B&B with Extended List
 10.B&B Hueristics and cost
+
